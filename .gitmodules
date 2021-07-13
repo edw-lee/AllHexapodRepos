@@ -1,0 +1,9 @@
+[submodule "HexapodSimulator"]
+	path = HexapodSimulator
+	url = https://github.com/edw-lee/HexapodSimulator
+[submodule "HexapodControllerApp"]
+	path = HexapodControllerApp
+	url = https://github.com/edw-lee/HexapodControllerApp
+[submodule "HexapodRobot"]
+	path = HexapodRobot
+	url = https://github.com/edw-lee/HexapodRobot
